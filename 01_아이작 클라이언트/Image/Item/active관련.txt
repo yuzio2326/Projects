@@ -1,2 +1,0 @@
-collectibles_295_magicfingers
-는 동전 1개 없애고 방 전체 모든 몬스터에게 데미지를 줌(player_atk*2+10)
